@@ -12,9 +12,13 @@ ul {
 }
 header {
     text-align: center;
+    margin-left: -2rem;
+    margin-right: -2rem;
     margin-bottom: 2rem;
     border-bottom: solid 1px #333;
     padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 header .logo {
