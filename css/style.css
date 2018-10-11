@@ -146,8 +146,7 @@ main img {
         display: grid;
         grid-template-areas: 
             'header-nav'
-            'searhc-box';
-        justify-items: right;
+            'search-box';
     }
 
     header nav {
@@ -156,6 +155,7 @@ main img {
 
     header .search-box {
         grid-area: search-box;
+        width: 100%;
     }
 
 /* MAIN NAV */
